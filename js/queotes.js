@@ -4,7 +4,7 @@ const quotes = [
         author: "Interstellar",
     },
     {
-        quote: "Cuz I'm the one and only",
+        quote: "I'm the one and only",
         author: "ITZY",
     },
     {
@@ -12,7 +12,7 @@ const quotes = [
         author: "Lia",
     },
     {
-        quote: "Keep your chin up, we got your bakc",
+        quote: "Keep your chin up, we got your back",
         author: "Ryujin",
     },
     {
@@ -25,19 +25,19 @@ const quotes = [
     },
     {
         quote: "I love you 3000",
-        author: "Marty",
+        author: "Morgan",
     },
     {
         quote: "Yibumbe",
-        author: "Tichi",
+        author: "T'Challa",
     },
     {
         quote: "I can do this all day",
-        author: "Cap",
+        author: "Steve",
     },
     {
-        quote: "I have nothing prove to you",
-        author: "Captin Marvel"
+        quote: "I have nothing to prove to you",
+        author: "Captain Marvel"
     }
 ]; 
 
